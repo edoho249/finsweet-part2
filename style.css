@@ -248,6 +248,7 @@ align-items: center;
 display: flex;
 margin-bottom: auto;
 background-color: white;
+    margin-left: 50px;
 }
 
 .card-text{
