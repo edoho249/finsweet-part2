@@ -241,8 +241,8 @@ align-items: center;
 }
 
 .card{
-height: 150px;
-width: 200px;
+height: 200px;
+width: 250px;
 justify-content: center;
 align-items: center;
 display: flex;
