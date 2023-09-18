@@ -96,20 +96,20 @@ main{
 
 .left{
     width: 50%;
-    height: 100%;
+    /* height: 100%; */
     display: flex;
     justify-content: center;
     flex-direction: column;
-    background-color: white;
+    background-color: E2E6E9;
 }
 
 .right{
     width: 50%;
-    height: 100%;
+    /* height: 100%; */
     display: flex;
     justify-content: center;
     flex-direction: column;
-    background-color: white;
+    background-color: E2E6E9;
 }
 
 
@@ -219,12 +219,17 @@ font-size: 15px;
     margin: auto;
     align-items: center;
 }
+/* .container-4 h6, h1{
+    width: 80%;
+    text-align: center;
+} */
 
 
 
 .content{
 width: 100%;
 text-align: center;
+/* display: flex; */
 }
 
 .what-we-offer-card{
@@ -236,7 +241,7 @@ align-items: center;
 }
 
 .card{
-height: 200px;
+height: 150px;
 width: 200px;
 justify-content: center;
 align-items: center;
@@ -256,21 +261,21 @@ background-color: white;
 
 .one{
     display: flex;
-    background-color: white;
+    background-color: E2E6E9;
     column-gap: 10px;
     margin-bottom: 15px;
 }
 
 .two{
     display: flex;
-    background-color: white;
+    background-color: E2E6E9;
     column-gap: 10px;
     margin-bottom: 15px;
 }
 
 .three{
     display: flex;
-    background-color: white;
+    background-color: E2E6E9;
     column-gap: 10px;
     margin-bottom: 15px;
 }
@@ -323,21 +328,21 @@ border: 2px;
 }
 
 label{
-    display: block; 
+    display: block; 
+    /* margin-top: 15px; */
     width: 100%;
     margin-bottom: 5px;
     column-gap: 100px;
-background-color: E2E6E9;
+    background-color: E2E6E9;
 }
-
 input{
-width: 100%;
-height: 50px;
+    width: 100%;
+    height: 50px;
 }
 
 .btn{
   
-    margin-top: 40px;
+    margin-top: -10px;
 
 }
 
